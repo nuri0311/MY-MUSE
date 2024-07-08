@@ -71,3 +71,12 @@ MY MUSE는 ① 가상 박물관, ② Immersive Room, ③ Activity Room, ④ Disp
   **MY MUSE의 기능**
   
 </div>
+
+# Demo Video
+<div align="center">
+  
+ [![Video Label](http://img.youtube.com/vi/zsD7NtTbjIo/0.jpg)](https://youtu.be/zsD7NtTbjIo)
+ 
+  **Demo Video (Click!)**
+  
+</div>
